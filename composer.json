@@ -1,5 +1,5 @@
 {
-    "name": "felipedangerkids/correios-php",
+    "name": "felipedangerkids/correios",
     "type": "library",
     "description": "Uma maneira fácil de interagir com as principais funcionalidades dos Correios.",
     "keywords": [
